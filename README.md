@@ -11,9 +11,15 @@ We have created a basic Student GUI with java which generates emails for student
 When users enter an id and a name for a student the app creates an email for the specified student then writes it in a linked list. If needed, users can delete and edit students informations
 with the help of buttons. 
 
+` Java code in order to create a linked list; `
+
+``` Java
+    private LinkedList<StudentEmail> studentLList = new LinkedList<StudentEmail>(); //to display student info in a linked list
+``` 
+
 <img src="https://user-images.githubusercontent.com/64264345/117555265-990c7e00-b07f-11eb-9631-4fccc2776221.jpg" width="550"> 
 
-- ***Save button is disabled until edit button is used because we can't save a data before editing it. ***
+- ***Save button is disabled until edit button is used because we can't save a data before editing it.***
 
 > ### The Use Of Buttons
 
