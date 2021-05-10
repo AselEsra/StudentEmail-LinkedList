@@ -32,23 +32,22 @@ When clicked on, data which had beed provided when program was written will appe
 
 If the user wants to delete a data from the linked list, first he/she has to provide the id of the unwanted student in the id text field then click on the delete button. Record will be eliminated after using the delete button.
 
-![SLL2](https://user-images.githubusercontent.com/64264345/117555280-a6c20380-b07f-11eb-8840-b44941f9f160.jpg) ![SLL3](https://user-images.githubusercontent.com/64264345/117555281-a75a9a00-b07f-11eb-8555-da7998e752e5.jpg)
+<img src="https://user-images.githubusercontent.com/64264345/117555280-a6c20380-b07f-11eb-8840-b44941f9f160.jpg" width="450"> <img src="https://user-images.githubusercontent.com/64264345/117555281-a75a9a00-b07f-11eb-8555-da7998e752e5.jpg" width="450">
 
 ### Edit Button;
 
 If the user has entered false information of a student, the user can change it by the edit button. He/she has to specify the id of the student where changes are going to be made, after clicking on edit button, student's name of the specified id will appear on the name text field.
 
-![SLL4](https://user-images.githubusercontent.com/64264345/117555272-a45fa980-b07f-11eb-8a91-ba55b2759fa1.jpg) ![SLL5](https://user-images.githubusercontent.com/64264345/117555274-a4f84000-b07f-11eb-9445-0fff4851b8a5.jpg)
+<img src="https://user-images.githubusercontent.com/64264345/117555272-a45fa980-b07f-11eb-8a91-ba55b2759fa1.jpg" width="450"> <img src="https://user-images.githubusercontent.com/64264345/117555274-a4f84000-b07f-11eb-9445-0fff4851b8a5.jpg" width="450">
 
 ### Save Button;
 
 If edit button is used, save button will be enabled in order to save the changes which have been made. 
 
-![SLL6](https://user-images.githubusercontent.com/64264345/117555276-a590d680-b07f-11eb-819d-19f49b71f793.jpg) ![SLL7](https://user-images.githubusercontent.com/64264345/117555277-a6296d00-b07f-11eb-926a-1987724ef8ff.jpg)
+<img src="https://user-images.githubusercontent.com/64264345/117555276-a590d680-b07f-11eb-819d-19f49b71f793.jpg" width="450"> <img src="https://user-images.githubusercontent.com/64264345/117555277-a6296d00-b07f-11eb-926a-1987724ef8ff.jpg" width="450">
 
 ### Add Button;
 
 If the user wants to add extra students, after providing an id and a name he/she can add a student to the linked list by clicking on the add button.
 
-![SLL8](https://user-images.githubusercontent.com/64264345/117555278-a6296d00-b07f-11eb-841b-3273aa72a319.jpg) ![SLL9](https://user-images.githubusercontent.com/64264345/117555279-a6c20380-b07f-11eb-826c-142b07bef080.jpg)
-
+<img src="https://user-images.githubusercontent.com/64264345/117555278-a6296d00-b07f-11eb-841b-3273aa72a319.jpg" width="450"> <img src="https://user-images.githubusercontent.com/64264345/117555279-a6c20380-b07f-11eb-826c-142b07bef080.jpg" width="450">
